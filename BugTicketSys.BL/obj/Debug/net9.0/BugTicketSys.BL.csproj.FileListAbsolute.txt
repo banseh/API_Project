@@ -1,0 +1,50 @@
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.deps.json
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.pdb
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.AssemblyReference.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfoInputs.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfo.cs
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.CoreCompileInputs.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicke.D468B5AD.Up2Date
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\refint\BugTicketSys.BL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.pdb
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\ref\BugTicketSys.BL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.deps.json
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.runtimeconfig.json
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.pdb
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.AssemblyReference.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfoInputs.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfo.cs
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.CoreCompileInputs.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicke.D468B5AD.Up2Date
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\refint\BugTicketSys.BL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.pdb
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.genruntimeconfig.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\ref\BugTicketSys.BL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.deps.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.runtimeconfig.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.BL.pdb
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.AssemblyReference.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfoInputs.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.AssemblyInfo.cs
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.csproj.CoreCompileInputs.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.sourcelink.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicke.D468B5AD.Up2Date
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\refint\BugTicketSys.BL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.pdb
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\BugTicketSys.BL.genruntimeconfig.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.BL\obj\Debug\net9.0\ref\BugTicketSys.BL.dll

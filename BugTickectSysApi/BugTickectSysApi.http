@@ -1,0 +1,132 @@
+@BugTickectSysApi_HostAddress = http://localhost:5206
+
+
+
+###
+
+
+GET {{BugTickectSysApi_HostAddress}}/api/Project
+Accept: application/json
+
+###
+GET {{BugTickectSysApi_HostAddress}}/api/Project/6931f9b3-705e-4049-4e63-08dd8736b911
+Accept: application/json
+
+###
+POST {{BugTickectSysApi_HostAddress}}/api/Project/
+Content-Type: application/json
+
+{
+    "Name": "B basbiosa Sysyem",
+    "Title": "using Ecmascript , hxtml , css  , project has 2 pagees sign in , up and exam page"
+}
+
+
+###
+
+PUT {{BugTickectSysApi_HostAddress}}/api/project/dbe73a16-f7db-4b91-b740-08dd8736d570
+Content-Type: application/json
+
+{
+    "Id": "dbe73a16-f7db-4b91-b740-08dd8736d570" ,
+    "Name": "updateeeeeeeeeeeeeeeeeeeeeeeeeeee Examination Sysyem",
+    "Title": "using Ecmascript , html , css  , project has 2 pagees sign in , up and exam page"
+}
+###
+DELETE {{BugTickectSysApi_HostAddress}}/api/Project/6931f9b3-705e-4049-4e63-08dd8736b911
+Accept: application/json
+
+############userrrrrrr##############
+  
+POST {{BugTickectSysApi_HostAddress}}/api/Login/Register
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username":"Afhmedddggg", 
+    "email":"AhmefdHamdtMohamed@gmail.com",
+    "password": "XXXx123%",
+    "customproperty": "Tester"
+}
+
+###
+
+ POST {{BugTickectSysApi_HostAddress}}/api/Login/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username":"Afhmedddggg", 
+    "password": "XXXx123%"
+}
+
+###
+GET {{BugTickectSysApi_HostAddress}}/api/Value
+Accept: application/json
+
+######################Buggggggg######################
+
+###
+# Get All Bugs
+GET {{BugTickectSysApi_HostAddress}}/api/Bug
+Accept: application/json
+
+###
+# Get Specific Bug By Id
+GET {{BugTickectSysApi_HostAddress}}/api/Bug/92690608-43b2-4fa2-4e8f-08dd87fdf12a
+Accept: application/json
+
+###
+POST {{BugTickectSysApi_HostAddress}}/api/Bug
+Content-Type: application/json
+
+{
+  "description": "Bug in landinggggg page" ,
+  "project_id": "dbe73a16-f7db-4b91-b740-08dd8736d570"
+
+}
+
+###
+# Update Bug
+PUT {{BugTickectSysApi_HostAddress}}/api/Bug/92690608-43b2-4fa2-4e8f-08dd87fdf12a
+Content-Type: application/json
+
+{
+  "id": "92690608-43b2-4fa2-4e8f-08dd87fdf12a",
+  "description": "uodateddddd pafe Bug description" ,
+  "project_id": "6931f9b3-705e-4049-4e63-08dd8736b911"
+
+}
+
+###
+# Delete Bug
+DELETE {{BugTickectSysApi_HostAddress}}/api/Bug/c3685421-b719-481e-4e91-08dd87fdf12a
+Accept: application/json
+
+  
+  
+#################user bug#########################
+###
+  POST {{BugTickectSysApi_HostAddress}}/api/UserBug
+Content-Type: application/json
+
+{
+    "User_id":"c5eedc09-5afa-444c-f592-08dd86c6322a" ,
+    "Bug_id": "71003bd7-08d4-4222-bf97-08dd87438adf"
+
+}
+
+
+###
+GET {{BugTickectSysApi_HostAddress}}/api/UserBug
+Accept: application/json
+
+###
+GET {{BugTickectSysApi_HostAddress}}/api/UserBug/89398ab2-6713-4875-aba1-8aadb20b07ee/xx
+Accept: application/json
+
+###
+
+###
+DELETE {{BugTickectSysApi_HostAddress}}/api/UserBug/c5eedc09-5afa-444c-f592-08dd86c6322a/71003bd7-08d4-4222-bf97-08dd87438adf
+Accept: application/json

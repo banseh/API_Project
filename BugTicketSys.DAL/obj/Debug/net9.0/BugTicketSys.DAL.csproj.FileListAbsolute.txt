@@ -1,0 +1,43 @@
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.deps.json
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.runtimeconfig.json
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.AssemblyReference.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfoInputs.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfo.cs
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.CoreCompileInputs.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\refint\BugTicketSys.DAL.dll
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.pdb
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.genruntimeconfig.cache
+D:\iti_.net\iti_.net\C#\ASP\Apiproject\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\ref\BugTicketSys.DAL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.deps.json
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.runtimeconfig.json
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.AssemblyReference.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfoInputs.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfo.cs
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\refint\BugTicketSys.DAL.dll
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.genruntimeconfig.cache
+C:\Users\hanya\Downloads\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\ref\BugTicketSys.DAL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.deps.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.runtimeconfig.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\bin\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.AssemblyReference.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfoInputs.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.AssemblyInfo.cs
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.csproj.CoreCompileInputs.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.sourcelink.json
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\refint\BugTicketSys.DAL.dll
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.pdb
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\BugTicketSys.DAL.genruntimeconfig.cache
+C:\Users\power\Downloads\BugTicketSys (4)\BugTicketSys (4)\BugTicketSys\BugTicketSys.DAL\obj\Debug\net9.0\ref\BugTicketSys.DAL.dll

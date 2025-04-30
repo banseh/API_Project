@@ -1,0 +1,1567 @@
+{
+  "Version": 1,
+  "Hash": "/GfcfPTQ/odX2MQg7ipqmxUuBlfFmeR331uXWnvL0i4=",
+  "Source": "BugTickectSysApi",
+  "BasePath": "_content/BugTickectSysApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BugTickectSysApi\\wwwroot",
+      "Source": "BugTickectSysApi",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\04e74ba0-0c0a-4bdd-a08d-572233a17c78.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/04e74ba0-0c0a-4bdd-a08d-572233a17c78#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\04e74ba0-0c0a-4bdd-a08d-572233a17c78.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/0f76b8df-78a3-469a-9f07-d0f18feecdc1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhusch8kvu",
+      "Integrity": "U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/3134b356-ed7b-4369-bcb9-a0b8dde01207#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhusch8kvu",
+      "Integrity": "U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhusch8kvu",
+      "Integrity": "U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/33a257f1-7d42-4c93-a2d0-f38d3f9bcfef#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ei5772fnlt",
+      "Integrity": "WomPASPycLS4OcCZ0dg/kdZgKaZ+4MkSus+fQAOjGns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\502dadf4-7f14-4806-8458-8ae53fad30f1.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/502dadf4-7f14-4806-8458-8ae53fad30f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\502dadf4-7f14-4806-8458-8ae53fad30f1.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/64148fe8-c48e-4cba-a99a-f0bf2cf10ec3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7fxl87akht",
+      "Integrity": "c8CPhyg4+8EH+vSt+1sV35sMsEWNQ7hMdBtZnNmJ0uI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/8f6fe97b-0500-4f9a-8714-31c84e789c6e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gpd121zsj3",
+      "Integrity": "XO5T8a5eLBPXISHXUZYNNXjNe1KmdhHjEAFQ7wt0Faw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/97cbf4e3-d6bd-46ed-886a-a8d0e28de403#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a0e87435-79cd-4b5a-93aa-191311c07a96.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/a0e87435-79cd-4b5a-93aa-191311c07a96#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhusch8kvu",
+      "Integrity": "U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\a0e87435-79cd-4b5a-93aa-191311c07a96.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a1b2eecc-448e-4a86-9783-b80c4296e144.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/a1b2eecc-448e-4a86-9783-b80c4296e144#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\a1b2eecc-448e-4a86-9783-b80c4296e144.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\b73d7804-56cb-42ba-9398-c48af3e49eea.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/b73d7804-56cb-42ba-9398-c48af3e49eea#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\b73d7804-56cb-42ba-9398-c48af3e49eea.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/bfdb4d3c-10c4-4a84-b410-819f347c542e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "orusc1kpdw",
+      "Integrity": "PMX+rDXNoePZ4wgdbwOoirxZfNMJhoq0UnFZWBmnlkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\d2ec300f-f305-4632-b41e-789f3976a372.png",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/d2ec300f-f305-4632-b41e-789f3976a372#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwj6lhl39q",
+      "Integrity": "QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\d2ec300f-f305-4632-b41e-789f3976a372.png"
+    },
+    {
+      "Identity": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\ec5ced13-e31c-4655-9860-d087b290a22d.jpg",
+      "SourceId": "BugTickectSysApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\",
+      "BasePath": "_content/BugTickectSysApi",
+      "RelativePath": "Attachments/ec5ced13-e31c-4655-9860-d087b290a22d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhusch8kvu",
+      "Integrity": "U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Attachments\\ec5ced13-e31c-4655-9860-d087b290a22d.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Attachments/04e74ba0-0c0a-4bdd-a08d-572233a17c78.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\04e74ba0-0c0a-4bdd-a08d-572233a17c78.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/04e74ba0-0c0a-4bdd-a08d-572233a17c78.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/04e74ba0-0c0a-4bdd-a08d-572233a17c78.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\04e74ba0-0c0a-4bdd-a08d-572233a17c78.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/0f76b8df-78a3-469a-9f07-d0f18feecdc1.fhusch8kvu.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhusch8kvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\0f76b8df-78a3-469a-9f07-d0f18feecdc1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:47:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/3134b356-ed7b-4369-bcb9-a0b8dde01207.fhusch8kvu.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 16:14:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhusch8kvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\3134b356-ed7b-4369-bcb9-a0b8dde01207.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 16:14:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.fhusch8kvu.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhusch8kvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\32a9cabc-4d15-49d0-8cef-bb2b13fcbaaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.ei5772fnlt.jpeg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WomPASPycLS4OcCZ0dg/kdZgKaZ+4MkSus+fQAOjGns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 15:01:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ei5772fnlt"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WomPASPycLS4OcCZ0dg/kdZgKaZ+4MkSus+fQAOjGns="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\33a257f1-7d42-4c93-a2d0-f38d3f9bcfef.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WomPASPycLS4OcCZ0dg/kdZgKaZ+4MkSus+fQAOjGns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 15:01:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WomPASPycLS4OcCZ0dg/kdZgKaZ+4MkSus+fQAOjGns="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/502dadf4-7f14-4806-8458-8ae53fad30f1.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\502dadf4-7f14-4806-8458-8ae53fad30f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/502dadf4-7f14-4806-8458-8ae53fad30f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/502dadf4-7f14-4806-8458-8ae53fad30f1.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\502dadf4-7f14-4806-8458-8ae53fad30f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.7fxl87akht.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8CPhyg4+8EH+vSt+1sV35sMsEWNQ7hMdBtZnNmJ0uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7fxl87akht"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8CPhyg4+8EH+vSt+1sV35sMsEWNQ7hMdBtZnNmJ0uI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\64148fe8-c48e-4cba-a99a-f0bf2cf10ec3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8CPhyg4+8EH+vSt+1sV35sMsEWNQ7hMdBtZnNmJ0uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8CPhyg4+8EH+vSt+1sV35sMsEWNQ7hMdBtZnNmJ0uI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/8f6fe97b-0500-4f9a-8714-31c84e789c6e.gpd121zsj3.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XO5T8a5eLBPXISHXUZYNNXjNe1KmdhHjEAFQ7wt0Faw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:46:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gpd121zsj3"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XO5T8a5eLBPXISHXUZYNNXjNe1KmdhHjEAFQ7wt0Faw="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\8f6fe97b-0500-4f9a-8714-31c84e789c6e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XO5T8a5eLBPXISHXUZYNNXjNe1KmdhHjEAFQ7wt0Faw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 17:46:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XO5T8a5eLBPXISHXUZYNNXjNe1KmdhHjEAFQ7wt0Faw="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/97cbf4e3-d6bd-46ed-886a-a8d0e28de403.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\97cbf4e3-d6bd-46ed-886a-a8d0e28de403.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/a0e87435-79cd-4b5a-93aa-191311c07a96.fhusch8kvu.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a0e87435-79cd-4b5a-93aa-191311c07a96.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:57:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhusch8kvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/a0e87435-79cd-4b5a-93aa-191311c07a96.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/a0e87435-79cd-4b5a-93aa-191311c07a96.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a0e87435-79cd-4b5a-93aa-191311c07a96.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:57:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/a1b2eecc-448e-4a86-9783-b80c4296e144.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a1b2eecc-448e-4a86-9783-b80c4296e144.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:38:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/a1b2eecc-448e-4a86-9783-b80c4296e144.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/a1b2eecc-448e-4a86-9783-b80c4296e144.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\a1b2eecc-448e-4a86-9783-b80c4296e144.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:38:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/b73d7804-56cb-42ba-9398-c48af3e49eea.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\b73d7804-56cb-42ba-9398-c48af3e49eea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/b73d7804-56cb-42ba-9398-c48af3e49eea.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/b73d7804-56cb-42ba-9398-c48af3e49eea.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\b73d7804-56cb-42ba-9398-c48af3e49eea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMX+rDXNoePZ4wgdbwOoirxZfNMJhoq0UnFZWBmnlkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMX+rDXNoePZ4wgdbwOoirxZfNMJhoq0UnFZWBmnlkw="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/bfdb4d3c-10c4-4a84-b410-819f347c542e.orusc1kpdw.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMX+rDXNoePZ4wgdbwOoirxZfNMJhoq0UnFZWBmnlkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:56:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orusc1kpdw"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/bfdb4d3c-10c4-4a84-b410-819f347c542e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMX+rDXNoePZ4wgdbwOoirxZfNMJhoq0UnFZWBmnlkw="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/d2ec300f-f305-4632-b41e-789f3976a372.gwj6lhl39q.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\d2ec300f-f305-4632-b41e-789f3976a372.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:38:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwj6lhl39q"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/d2ec300f-f305-4632-b41e-789f3976a372.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/d2ec300f-f305-4632-b41e-789f3976a372.png",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\d2ec300f-f305-4632-b41e-789f3976a372.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:38:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM74fkennsTB5OL1Ay/2NViKG/XPAOPPh+503KW4ao="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/ec5ced13-e31c-4655-9860-d087b290a22d.fhusch8kvu.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\ec5ced13-e31c-4655-9860-d087b290a22d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhusch8kvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Attachments/ec5ced13-e31c-4655-9860-d087b290a22d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    },
+    {
+      "Route": "Attachments/ec5ced13-e31c-4655-9860-d087b290a22d.jpg",
+      "AssetFile": "C:\\Users\\power\\Downloads\\BugTicketSys (4)\\BugTicketSys (4)\\BugTicketSys\\BugTickectSysApi\\wwwroot\\Attachments\\ec5ced13-e31c-4655-9860-d087b290a22d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:09:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3lJRtG3Fg5iYpqaMGnbnnxVWIXUXH0TtBvBp8S44dI="
+        }
+      ]
+    }
+  ]
+}
